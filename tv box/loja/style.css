@@ -1,0 +1,42 @@
+
+.logo{
+    background-color: rgb(251, 251, 251);
+}
+.menu{
+    color: rgb(0, 0, 0);
+    padding: 15px;
+}
+
+
+
+.corpo{
+    background-color: rgb(124,124,124);
+}
+.main{
+ background-color: rgb(124,124,124);
+ color: rgb(124,124,124);
+}.post{
+    display: block;
+     margin-left: auto;
+     margin-right: auto
+}
+.top{
+    background-image: url(img/css/02.jpg);  /*adicionar foto principal*/
+    border-image-slice: initial;
+    background-size: cover;
+    padding-top: 500px;
+    color: lawngreen;
+    
+    
+}
+.h3{
+    color: lawngreen;
+    display: none;
+    justify-content: center;
+}
+.esp{
+    margin-top: 500px;
+}
+.preço{
+    color: red;
+}

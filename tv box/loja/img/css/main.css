@@ -1,0 +1,43 @@
+body{
+ background-image: url(02.jpg);
+ background-size:cover;
+    
+}
+.topo{
+   display: flex;
+   flex-direction:column;
+   align-items: center;
+   justify-content: center;
+   padding-top: 150px;
+}
+.nav{
+   background-color: rgb(226, 0, 0);
+}
+.parceiros{
+   padding-top: 25px;
+    font-size: 20px;}
+
+ 
+.navbar-expand-lg{
+   background-color: black;
+}
+
+.nav-link{
+   background-color: rgb(255, 255, 255);
+   font-size: 15px;
+   font-family: cursive;
+
+}
+h2{
+   color: darkgrey;
+}
+.row{
+   border-radius: 150px;
+}
+
+.conteudo{
+   padding: 60px;
+   display: flex;
+   flex-direction:row;
+   justify-content: space-around;
+}
